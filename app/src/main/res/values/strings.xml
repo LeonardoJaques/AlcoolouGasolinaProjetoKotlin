@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alcool ou Gasolina - Projeto Kotlin</string>
+    <string name="title">Saiba a melhor opção de abastecimento do seu carro!</string>
+    <string name="price_alcool">Preço álcool:</string>
+    <string name="price_gasolina">Preço gasolina:</string>
+    <string name="btn_calc">Calcular</string>
+    <string name="result">Resultado</string>
+
+
+
+</resources>
